@@ -1,0 +1,14 @@
+{
+  "server":"127.0.0.1",
+  "port":50010,
+  "tunnel_ip":"10.7.0.2",
+  "tunnel_name":"tun0",
+  "mtu":1496,
+  "download_speed":100,
+  "upload_speed":100,
+  "password":"my_password",
+  "mode":"client",
+  "chnroute":"/etc/sharpvpn/chnroute.txt",
+  "chinadns_host":"127.0.0.1",
+  "token":"some-unque-name-1"
+}
