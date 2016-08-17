@@ -22,7 +22,7 @@ make
 
 ###Windows
 
-Please download the prebuild version of Sharpvpn-windows(link)
+Please download the prebuild version of [Sharpvpn-windows](https://github.com/jianyu-m/Sharpvpn/releases)
 
 
 
